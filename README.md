@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 👥 He/him<br>
-▶️ Youtube: youtube.com/c/tiandev
+▶️ Youtube: [youtube.com/c/tiandev](https://www.youtube.com/c/tiandev)
 
 ### Back-end
 
